@@ -31,6 +31,6 @@ or (better)
 
 I use a german female voice from the mbrola package "german-mbrola-3" you can find it in the non-free repository on debian https://packages.debian.org/de/buster/mbrola-voice or on his homepage http://tcts.fpms.ac.be/synthesis/
 
-*apt install mbrola-voice mbrola-de3*
+*apt install mbrola-de3*
 
 of course you can also use another language or even another synthesis. Please read the man page and configure to fit your taste
