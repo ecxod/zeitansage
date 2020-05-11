@@ -26,3 +26,10 @@ Ich benutze eine deutsche Frauenstimme aus dem mbrola-Paket "german-mbrola-3". S
 * apt install mbrola-voice mbrola-de3 *
 
 Natürlich können Sie auch eine andere Sprache oder sogar eine andere Synthese verwenden. Bitte lesen Sie die Manpage und konfigurieren Sie sie nach Ihrem Geschmack
+
+# glocke-anschlagen-einmal.ogg - stammt ursprünglich Sebastian Karpp von 
+# https://www.salamisound.de/7958026-glocke-anschlagen-einmal und wurde mit dir2ogg 
+# in das freie format ogg umgewandelt. Die Datei Für den privaten / persönlichen / 
+# künstlerischen / pädagogischen Gebrauch ist es gestattet die mp3 Dateien zu 
+# kopieren und weiter zu verarbeiten. Alle Rechte dem Autor.
+
