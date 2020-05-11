@@ -7,31 +7,31 @@ Sie benötigen eine Soundkarte und einen Lautsprecher, die an Ihren Computer ang
 Ich persönlich benutze den alsa-Treiber, der in einem Paket namens alsa-utils enthalten ist
 das paket aplay wird mit alsa-utils geliefert.
 
-* apt install alsa-utils *
+*apt install alsa-utils*
 
 Es gibt einige Abhängigkeiten, die Sie installieren müssen.
 
 Zunächst müssen Sie feedparser von pip / pip3 oder von einem anderen Ort installieren.
 
-* pip install feedparser *
+*pip install feedparser*
 
 Danach benötigen Sie einen Espeak von https://packages.debian.org/buster/espeak-ng-espeak oder von einem anderen Ort
 
-* apt install espeak *
+*apt install espeak*
 oder
-* apt install espeak-ng *
+*apt install espeak-ng*
 
 Ich benutze eine deutsche Frauenstimme aus dem mbrola-Paket "german-mbrola-3". Sie finden es im non-free Repository unter Debian https://packages.debian.org/de/buster/mbrola-voice oder auf seiner Homepage http://tcts.fpms.ac.be/synthesis/
 
-* apt install mbrola-voice mbrola-de3 *
+*apt install mbrola-voice mbrola-de3*
 
 Natürlich können Sie auch eine andere Sprache oder sogar eine andere Synthese verwenden. Bitte lesen Sie die Manpage und konfigurieren Sie sie nach Ihrem Geschmack
 
-Die Datei glocke-anschlagen-einmal.ogg - stammt ursprünglich Sebastian Karpp von https://www.salamisound.de/7958026-glocke-anschlagen-einmal und wurde mit dir2ogg in das freie format ogg umgewandelt. Die Datei Für den privaten / persönlichen / künstlerischen / pädagogischen Gebrauch ist es gestattet die mp3 Dateien zu kopieren und weiter zu verarbeiten. Alle Rechte dem Autor.
+Die Datei glocke-anschlagen-einmal.ogg - laden wir nach /media/effekte/ herunter, sie stammt ursprünglich Sebastian Karpp von https://www.salamisound.de/7958026-glocke-anschlagen-einmal und wurde mit dir2ogg in das freie format ogg umgewandelt. Die Datei Für den privaten / persönlichen / künstlerischen / pädagogischen Gebrauch ist es gestattet die mp3 Dateien zu kopieren und weiter zu verarbeiten. Alle Rechte dem Autor.
 
-apt install dir2ogg
+*apt install dir2ogg*
 
-dir2ogg /beispiel_download_verzeichnis/
+*dir2ogg /media/effekte/*
 
 
 
