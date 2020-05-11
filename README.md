@@ -14,11 +14,12 @@ There are some dependencies you must install.
 first of all you need to install feedparser from pip/pip3 or from somewhere else.
 
 *pip install feedparser*
+(if you do not have pip install it "apt install python3-pip")
 
 after this you need espeak from https://packages.debian.org/buster/espeak-ng-espeak or from somewhere else
 
 *apt install espeak*
-or 
+or (better) 
 *apt install espeak-ng*
 
 I use a german female voice from the mbrola package "german-mbrola-3" you can find it in the non-free repository on debian https://packages.debian.org/de/buster/mbrola-voice or on his homepage http://tcts.fpms.ac.be/synthesis/
