@@ -33,5 +33,7 @@ Die Datei glocke-anschlagen-einmal.ogg - laden wir nach /media/effekte/ herunter
 
 *dir2ogg /media/effekte/*
 
+laden Sie jetzt zeitansage.py herunter und verschieben sie sie nach /sbin und geben ihr ausführbare rechte
 
+kopieren sie nun die vorlage crontab -e in einen neuen crontab. Falls Sie die Datei Zeitansage.py anderswohin als /sbin geladen haben, bitte anzupassen iin crontab -e
 
