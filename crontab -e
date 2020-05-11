@@ -1,0 +1,4 @@
+# Put this in your crontab using "crontab -e"
+# and place the file in /sbin/zeitansage.py or somewhere else
+#
+*/10 */1 * * *  /usr/bin/python3 /sbin/zeitansage.py
