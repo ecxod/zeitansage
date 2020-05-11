@@ -13,7 +13,7 @@ There are some dependencies you must install.
 
 first of all you need to install feedparser from pip/pip3 or from somewhere else.
 
-*pip install feedparser*
+*pip install feedparser*\n
 (if you do not have pip install it "apt install python3-pip")
 
 after this you need espeak from https://packages.debian.org/buster/espeak-ng-espeak or from somewhere else
